@@ -1,0 +1,1 @@
+# Strokes-Voector-Direct-Detection
